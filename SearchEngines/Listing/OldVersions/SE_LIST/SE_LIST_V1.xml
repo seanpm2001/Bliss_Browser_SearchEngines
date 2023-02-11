@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <bliss-browser>
+    <search-engines>
+      <"
+        Bing
+        DuckDuckGo
+        Ecosia
+        SwissCows
+      ">
+    </search-engines>
+    <notes>
+      <"
+        Google will never be an option
+        I am open to Yahoo! but I may end up ruling it out.
+        Yandex will never be an option
+      ">  
+    </notes>
+  </bliss_browser>
+</xml>
+<!-- File version: 1 (2023, Saturday, February 11th at 12:17 pm PST) !-->
